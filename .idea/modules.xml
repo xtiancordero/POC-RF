@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE-master/.idea/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE-master.iml" filepath="$PROJECT_DIR$/../Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE-master/.idea/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../automation_test_suite-master/.idea/MainframeAutomation.iml" filepath="$PROJECT_DIR$/../automation_test_suite-master/.idea/MainframeAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python3Programming/.idea/Python3Programming.iml" filepath="$PROJECT_DIR$/../Python3Programming/.idea/Python3Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UOBOneView.iml" filepath="$PROJECT_DIR$/.idea/UOBOneView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tests/Keywords/WUI/.idea/WUI.iml" filepath="$PROJECT_DIR$/Tests/Keywords/WUI/.idea/WUI.iml" />
+    </modules>
+  </component>
+</project>
