@@ -22,10 +22,7 @@ ${DashboardActions}             ${CURDIR}${/}..\\Tests\\Actions\\OneView\\Dashbo
 ${SecurityActions}              ${CURDIR}${/}..\\Tests\\Actions\\OneView\\Security.robot
 ${LoginKeywords}                ${CURDIR}${/}..\\Keywords\\OneView\\LoginKeywords.robot
 #urls
-${UOBOneView}                   http://172.31.26.44:8080/OACredit/login
-${UOBTAPWUI}                    http://172.31.31.222:15050/wui/login
-${BaseURL}                      http://172.31.26.44:8080/OACredit
-${Liab}                         /script/getLiabilitiesByPortfolio?
+
 ${PtfCode}                      portfolioCode=
 ${PtfClientName}                &clientName=
 ${PtfFacilityPackage}           &facilityPackage=
